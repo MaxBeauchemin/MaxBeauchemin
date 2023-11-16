@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaxBeauchemin
-- 👀 I’m interested in Diving, Video Games, and Technology
-- 📫 You can reach me via my portfolio website maxbeauchemin.com
+- 👀 I’m interested in Technology, Diving, and Video Games
 
 <!---
 MaxBeauchemin/MaxBeauchemin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
